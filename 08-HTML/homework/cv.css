@@ -1,0 +1,19 @@
+img{
+    border-style: solid;
+    border-width: 1;
+    border-color: gray;
+}
+
+#General{
+    width: 82%;
+    margin: 0 auto;
+    background-color: rgb(255, 241, 248);
+    padding: 15;
+}
+legend{
+    border-style: ridge;
+    border-width: 0.5;
+    border-color: rgb(255, 165, 210);
+    background-color: gainsboro;
+    font-size: 18;
+}
