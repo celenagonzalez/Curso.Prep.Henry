@@ -1,0 +1,29 @@
+html{
+    background-color: ghostwhite;
+}
+.divClass h1 {
+font-size: 60;color: indianred; text-align: center;
+}
+
+.divClass h3 {
+font-size: 30;color: rgb(123, 176, 185);text-align: center;
+}
+.divClass h4 {
+    font-size: 22;color: rgb(123, 176, 185);
+}
+.divClass Span {  
+    font-size: 18; 
+    margin: 50; 
+    padding:50; 
+    border-style: groove;
+    border-width: 1;
+    border-color: lightslategray;
+}
+.thirDiv {
+    width: 500;
+    height:600;
+    color:magenta
+}
+img {
+    width: 400;
+}
